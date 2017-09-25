@@ -1,6 +1,6 @@
 {
   "name": "strict-click",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/strict-click",
   "description": "Handle click events iff mouse{up,down} targets match",
