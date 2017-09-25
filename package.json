@@ -1,0 +1,14 @@
+{
+  "name": "strict-click",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/strict-click",
+  "description": "Handle click events iff mouse{up,down} targets match",
+  "scripts": {
+    "test": "prettier-standard index.js && standard"
+  },
+  "devDependencies": {
+    "prettier-standard": "^6.0.0",
+    "standard": "^10.0.3"
+  }
+}
